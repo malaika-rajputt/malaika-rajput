@@ -1,4 +1,4 @@
 # malaika-rajput
-this is my first Git repository.
+This is my first Git repository.
 <br>
-author-malaika rajput.
+Author-malaika rajput.
